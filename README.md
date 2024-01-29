@@ -5,3 +5,5 @@
 - Embraced the power of ELBs to evenly distribute incoming application traffic from CloudFront to across multiple EC2 instances.
 - Utilized AWS CodeDeploy for automating code deployments to EC2 instances, ensuring a streamlined and reliable deployment process for microservices.
 - Integrated various AWS databases (e.g., Amazon RDS, Elasticache) to store and manage data across microservices
+
+![image](https://github.com/rajatsingh004/AWS-Microservices-Integration/assets/32368968/296e9c1c-44c8-402f-86ef-22a6f46ef332)
