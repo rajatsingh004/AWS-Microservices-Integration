@@ -1,7 +1,7 @@
 # Web-App
-- Integrated Amazon Cognito to manage user identity and access control seamlessly across microservices with federated users.
-- Configured Amazon VPC for isolating and securing infrastructure within the AWS environment.
-- Utilized Amazon Route 53 for DNS management, establishing a scalable and reliable method for routing traffic to CloudFront for content delivery.
-- Implemented Elastic Load Balancers (ELBs) to evenly distribute incoming application traffic from CloudFront across multiple EC2 instances.
-- Employed AWS CodeDeploy for automating code deployments to EC2 instances, ensuring a streamlined and reliable deployment process for microservices.
-- Integrated various AWS databases to store and manage data effectively across microservices.
+- Implemented Amazon Cognito to manage user identity and access control across microservices with federated users.
+- Configured Amazon VPC to isolate and secure the infrastructure within the AWS environment.
+- Leveraged Amazon Route 53 for DNS management, providing a scalable and reliable way to route traffic to CloudFront for delivering the content.
+- Embraced the power of ELBs to evenly distribute incoming application traffic from CloudFront to across multiple EC2 instances.
+- Utilized AWS CodeDeploy for automating code deployments to EC2 instances, ensuring a streamlined and reliable deployment process for microservices.
+- Integrated various AWS databases (e.g., Amazon RDS, Elasticache) to store and manage data across microservices
