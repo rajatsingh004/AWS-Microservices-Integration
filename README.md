@@ -1,11 +1,31 @@
-# Web-App
-![image](https://github.com/rajatsingh004/AWS-Microservices-Integration/assets/32368968/296e9c1c-44c8-402f-86ef-22a6f46ef332)
+# AWS Microservice Web Application Sandbox
 
-It is a sample microservice application you can use as a sandbox to test and learn the process of the deployment of a website using various AWS services.
-Route 53
-CloudFront
-Amazon Cognito
-Elastic Load Balancer
-Auto Scaling Group
-Amazon RDS
-ElastiCache
+A learning sandbox for exploring the deployment of scalable, microservice-based web applications using a range of AWS services. Experiment with infrastructure as code (IaC) and key architectural components.
+
+**Core Cloud Architecture:**
+  * Route 53 (DNS)
+  * CloudFront (Content Delivery Network)
+  * Amazon Cognito (User Authentication)
+  * Elastic Load Balancing (ELB)
+  * Auto Scaling Group (ASG)
+  * Amazon RDS (Relational Database)
+
+## IAC
+  * VPCs (Virtual Private Cloud)
+  * EC2 instances
+  * CloudFront distributions
+  * ELB
+  * ASG
+  * Amazon RDS
+
+## Customization
+**Experiment with microservices:** Deploy your own test web services or applications within the architecture.
+**Cost Optimization:** Use the AWS Pricing Calculator to estimate costs and explore optimization strategies.
+**Enhanced Scalability:** Customize scaling policies within launch templates to suit specific needs.
+**Multi-AZ Deployment:** Ensure high availability in production environments by enabling multi-Availability Zone configurations.  
+
+## Important Considerations
+**Thorough cost analysis is recommended before deployment.**
+**Employ Load Balancer health checks for robust monitoring.**
+
+
